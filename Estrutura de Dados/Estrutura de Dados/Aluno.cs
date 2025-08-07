@@ -8,5 +8,10 @@ namespace Estrutura_de_Dados
 {
     internal class Aluno
     {
+        string RA;
+        string Nome;
+        string Endereco;
+        int IdadeIngresso;
+        Boolean Bolsista;
     }
 }
